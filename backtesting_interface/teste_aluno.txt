@@ -1,0 +1,2 @@
+Teste de integração GitHub - IC4 Cesar.
+Arquivo criado na branch teste-aluno para verificar o processo de Pull Request e Merge.
