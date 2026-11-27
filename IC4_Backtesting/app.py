@@ -5,9 +5,13 @@ from database import salvar_simulacao_db
 import pandas as pd
 import os
 
+from pathlib import Path
+
+PASTA_BASE = Path(__file__).resolve().parent
+
 # Mapeamento dos arquivos CSV de cada ativo
 ARQUIVOS_ATIVOS = {
-    'BBAS3': 'BBAS3_2025.csv',
+    'BBAS3':  PASTA_BASE / 'BBAS3_2025.csv',
     'ITUB4': 'ITUB4_2025.csv'
 }
 

@@ -1,9 +1,12 @@
 import sqlite3
 from datetime import datetime
+from pathlib import Path
+
+PASTA_BASE = Path(__file__).resolve().parent
 
 
 def salvar_simulacao_db(nome, ativo, capital_inicial, data_inicio, data_fim, relatorio_texto):
-    conexao = sqlite3.connect('simulacoes_b3.db')
+    conexao = sqlite3.connect(PASTA_BASE / 'simulacoes_b3.db')
     cursor = conexao.cursor()
 
     cursor.execute('''

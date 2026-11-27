@@ -1,0 +1,182 @@
+Relatório de coleta de dados - 2026-11-27 00:15:24.723326
+
+Dados de BBAS3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: BBAS3_SA.csv
+Arquivo Excel: BBAS3_SA.xlsx
+
+Dados de ITUB4.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: ITUB4_SA.csv
+Arquivo Excel: ITUB4_SA.xlsx
+
+Dados de BBDC4.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: BBDC4_SA.csv
+Arquivo Excel: BBDC4_SA.xlsx
+
+Dados de B3SA3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: B3SA3_SA.csv
+Arquivo Excel: B3SA3_SA.xlsx
+
+Dados de BPAC11.SA baixados com sucesso!
+Período: 2017-02-24 até 2025-12-30
+Registros: 2204
+Arquivo CSV: BPAC11_SA.csv
+Arquivo Excel: BPAC11_SA.xlsx
+
+Dados de CMIG4.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: CMIG4_SA.csv
+Arquivo Excel: CMIG4_SA.xlsx
+
+Dados de CPFE3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: CPFE3_SA.csv
+Arquivo Excel: CPFE3_SA.xlsx
+
+Dados de TAEE11.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: TAEE11_SA.csv
+Arquivo Excel: TAEE11_SA.xlsx
+
+Dados de PETR4.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: PETR4_SA.csv
+Arquivo Excel: PETR4_SA.xlsx
+
+Dados de VALE3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: VALE3_SA.csv
+Arquivo Excel: VALE3_SA.xlsx
+
+Dados de CSNA3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: CSNA3_SA.csv
+Arquivo Excel: CSNA3_SA.xlsx
+
+Dados de GGBR4.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: GGBR4_SA.csv
+Arquivo Excel: GGBR4_SA.xlsx
+
+Dados de USIM5.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: USIM5_SA.csv
+Arquivo Excel: USIM5_SA.xlsx
+
+Dados de SUZB3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: SUZB3_SA.csv
+Arquivo Excel: SUZB3_SA.xlsx
+
+Dados de KLBN11.SA baixados com sucesso!
+Período: 2014-01-23 até 2025-12-30
+Registros: 2970
+Arquivo CSV: KLBN11_SA.csv
+Arquivo Excel: KLBN11_SA.xlsx
+
+Dados de ABEV3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: ABEV3_SA.csv
+Arquivo Excel: ABEV3_SA.xlsx
+
+Dados de BEEF3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: BEEF3_SA.csv
+Arquivo Excel: BEEF3_SA.xlsx
+
+Dados de MGLU3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: MGLU3_SA.csv
+Arquivo Excel: MGLU3_SA.xlsx
+
+Dados de LREN3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: LREN3_SA.csv
+Arquivo Excel: LREN3_SA.xlsx
+
+Dados de WEGE3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: WEGE3_SA.csv
+Arquivo Excel: WEGE3_SA.xlsx
+
+Dados de RAPT4.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: RAPT4_SA.csv
+Arquivo Excel: RAPT4_SA.xlsx
+
+Dados de RADL3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: RADL3_SA.csv
+Arquivo Excel: RADL3_SA.xlsx
+
+Dados de HAPV3.SA baixados com sucesso!
+Período: 2018-04-26 até 2025-12-30
+Registros: 1909
+Arquivo CSV: HAPV3_SA.csv
+Arquivo Excel: HAPV3_SA.xlsx
+
+Dados de FLRY3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: FLRY3_SA.csv
+Arquivo Excel: FLRY3_SA.xlsx
+
+Dados de COGN3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: COGN3_SA.csv
+Arquivo Excel: COGN3_SA.xlsx
+
+Dados de YDUQ3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: YDUQ3_SA.csv
+Arquivo Excel: YDUQ3_SA.xlsx
+
+Dados de TIMS3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: TIMS3_SA.csv
+Arquivo Excel: TIMS3_SA.xlsx
+
+Dados de VIVT3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: VIVT3_SA.csv
+Arquivo Excel: VIVT3_SA.xlsx
+
+Dados de RAIL3.SA baixados com sucesso!
+Período: 2015-04-02 até 2025-12-30
+Registros: 2675
+Arquivo CSV: RAIL3_SA.csv
+Arquivo Excel: RAIL3_SA.xlsx
+
+Dados de ECOR3.SA baixados com sucesso!
+Período: 2014-01-02 até 2025-12-30
+Registros: 2985
+Arquivo CSV: ECOR3_SA.csv
+Arquivo Excel: ECOR3_SA.xlsx
+

@@ -1,6 +1,9 @@
 # PROJETO PAIC - ANÁLISE TÉCNICA DA BBAS3
 
 import os
+from pathlib import Path
+
+PASTA_BASE = Path(__file__).resolve().parent
 
 # Limpa as informações da execução anterior do terminal.
 os.system("cls")
@@ -22,7 +25,7 @@ from indicadores.indicadores import (
 # LEITURA DOS DADOS EM DATAFRAME
 # Lê o arquivo CSV utilizando o pandas.
 dados = pd.read_csv(
-    "BBAS3_2024_2025.csv",
+    PASTA_BASE / "BBAS3_2024_2025.csv",
     parse_dates=["Date"],
     index_col="Date"
 )
@@ -291,13 +294,13 @@ resultados_2025 = resultados[
 
 # Gera o arquivo CSV.
 resultados_2025.to_csv(
-    "BBAS3_comparacao_indicadores.csv",
+    PASTA_BASE / "BBAS3_comparacao_indicadores.csv",
     index_label="Data"
 )
 
 # Gera o arquivo Excel.
 resultados_2025.to_excel(
-    "BBAS3_comparacao_indicadores.xlsx",
+    PASTA_BASE / "BBAS3_comparacao_indicadores.xlsx",
     index_label="Data"
 )
 
