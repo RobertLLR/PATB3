@@ -1,13 +1,17 @@
 import plotly.graph_objects as go
 from dash import Dash, html, dcc, Input, Output, State, dash_table, ctx
-from IC4_Backtesting.backtesting import gerar_backtesting
-from IC4_Backtesting.database import salvar_simulacao_db
+from backtesting import gerar_backtesting
+from database import salvar_simulacao_db
 import pandas as pd
 import os
 
+from pathlib import Path
+
+PASTA_BASE = Path(__file__).resolve().parent
+
 # Mapeamento dos arquivos CSV de cada ativo
 ARQUIVOS_ATIVOS = {
-    'BBAS3': 'BBAS3_2025.csv',
+    'BBAS3':  PASTA_BASE / 'BBAS3_2025.csv',
     'ITUB4': 'ITUB4_2025.csv'
 }
 

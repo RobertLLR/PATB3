@@ -218,3 +218,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Banco de dados das simulações PATB3
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Arquivos gerados pelas estratégias
+SAIDA_RSI.csv
+
+# Configurações locais do VSCode
+.vscode/

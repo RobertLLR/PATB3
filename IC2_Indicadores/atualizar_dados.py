@@ -2,9 +2,14 @@
 import os
 import yfinance as yf
 import pandas as pd
+from pathlib import Path
+
+
+# Define a pasta onde está o programa.
+PASTA_BASE = Path(__file__).resolve().parent
 
 # Define o arquivo que armazena os dados históricos.
-nome_arquivo = "BBAS3_2024_2025.csv"
+nome_arquivo = PASTA_BASE / "BBAS3_2024_2025.csv"
 
 # Define o ativo e a data inicial do histórico.
 ativo = "BBAS3.SA"
