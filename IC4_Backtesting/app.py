@@ -1,7 +1,7 @@
 import plotly.graph_objects as go
 from dash import Dash, html, dcc, Input, Output, State, dash_table, ctx
-from backtesting import gerar_backtesting
-from database import salvar_simulacao_db
+from IC4_Backtesting.backtesting import gerar_backtesting
+from IC4_Backtesting.database import salvar_simulacao_db
 import pandas as pd
 import os
 

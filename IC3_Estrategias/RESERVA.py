@@ -1,5 +1,5 @@
 # Importar as estratégias
-from ESTRATEGIA import estrategia_RSI, estrategia_media, estrategia_bollinger
+from IC3_Estrategias.ESTRATEGIA import estrategia_RSI, estrategia_media, estrategia_bollinger
 
 import pandas as pd
 import matplotlib.pyplot as plt
